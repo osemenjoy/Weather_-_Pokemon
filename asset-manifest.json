@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather_-_Pokemon/static/css/main.e6c13ad2.css",
+    "main.js": "/Weather_-_Pokemon/static/js/main.3f88aba7.js",
+    "static/js/453.b002e21a.chunk.js": "/Weather_-_Pokemon/static/js/453.b002e21a.chunk.js",
+    "index.html": "/Weather_-_Pokemon/index.html",
+    "main.e6c13ad2.css.map": "/Weather_-_Pokemon/static/css/main.e6c13ad2.css.map",
+    "main.3f88aba7.js.map": "/Weather_-_Pokemon/static/js/main.3f88aba7.js.map",
+    "453.b002e21a.chunk.js.map": "/Weather_-_Pokemon/static/js/453.b002e21a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f88aba7.js"
+  ]
+}
